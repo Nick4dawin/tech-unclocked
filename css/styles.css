@@ -1,0 +1,21 @@
+.navig:hover{
+  cursor: pointer;
+}
+.know-more{
+  background: #67696c1f;
+}
+.confused{
+      background: #bcbcbc7a;
+}
+.app-down{
+  font-size: 1.4em;
+}
+.try-app{
+  font-size: 1.2em;
+}
+.footer{
+background:#000000c7;
+}
+.tu{
+  color: #d0ecff;
+}
